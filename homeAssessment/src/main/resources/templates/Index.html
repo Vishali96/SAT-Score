@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="ISO-8859-1">
+    <title>SAT Score</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+    <div class="container my-2">
+        <div style="text-align: center;">
+            <h1>Main Menu</h1>
+
+            <a th:href="@{/InsertSatScoreRecord}" class="btn btn-primary btn-sm mb-3"> Insert SAT Score </a><br />
+            <a th:href="@{/showRecords}" class="btn btn-primary btn-sm mb-3"> View SAT Score </a> <br />
+            <a th:href="@{/getName}" class="btn btn-primary btn-sm mb-3"> View Rank </a><br />
+            <a th:href="@{/showRecordsToUpdate}" class="btn btn-primary btn-sm mb-3"> Update SAT Score </a> <br />
+            <a th:href="@{/showRecordsToDelete}" class="btn btn-primary btn-sm mb-3"> Delete SAT Score </a><br />
+        </div>
+    </div>
+</body>
+
+</html>
