@@ -2,6 +2,7 @@ Menu Page:
 <img width="1612" alt="Screenshot 2023-06-17 at 4 52 19 PM" src="https://github.com/Vishali96/SAT-Score/assets/107004584/1c11f3b0-99e5-4066-9a80-d9ad138eb2a2">
 Insert Data:
 <img width="695" alt="Screenshot 2023-06-17 at 4 56 11 PM" src="https://github.com/Vishali96/SAT-Score/assets/107004584/0450ad52-eabf-4ca8-b3a5-af9afc42714d">
+
 <img width="1227" alt="Screenshot 2023-06-17 at 4 54 03 PM" src="https://github.com/Vishali96/SAT-Score/assets/107004584/e0727b9f-0833-4d3e-8961-7de330089baf">
 <img width="815" alt="Screenshot 2023-06-17 at 4 54 28 PM" src="https://github.com/Vishali96/SAT-Score/assets/107004584/26272a96-07a8-44a8-80b6-103ed625b858">
 <img width="613" alt="Screenshot 2023-06-17 at 4 54 35 PM" src="https://github.com/Vishali96/SAT-Score/assets/107004584/551fb872-b552-4bcb-9e38-f49d7c20fab2">
