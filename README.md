@@ -3,6 +3,7 @@ Menu Page:
 Insert Data:
 
 <img width="695" alt="Screenshot 2023-06-17 at 4 56 11 PM" src="https://github.com/Vishali96/SAT-Score/assets/107004584/0450ad52-eabf-4ca8-b3a5-af9afc42714d">
+
 View Data in Json Format:
 
 <img width="1227" alt="Screenshot 2023-06-17 at 4 54 03 PM" src="https://github.com/Vishali96/SAT-Score/assets/107004584/e0727b9f-0833-4d3e-8961-7de330089baf">
