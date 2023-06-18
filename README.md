@@ -1,12 +1,12 @@
-Project Requirements:
+Project Requirements: <br />
       -- Install MySql <br />
-      -- Create Username and Password
-      -- Create DB
-      -- Update Mysql Connection URL, Username and Password in homeAssessment/src/main/resources/application.properties
-Steps To Run Application:
-      -- Go to homeAssessment/src/main/java/com/example/homeAssessment/HomeAssessmentApplication.java 
-      -- Start Application
-Project Screenshots:
+      -- Create Username and Password <br />
+      -- Create DB <br />
+      -- Update Mysql Connection URL, Username and Password in homeAssessment/src/main/resources/application.properties <br />
+Steps To Run Application: <br />
+      -- Go to homeAssessment/src/main/java/com/example/homeAssessment/HomeAssessmentApplication.java <br />
+      -- Start Application <br />
+Project Screenshots: <br />
 Menu Page:
 <img width="1612" alt="Screenshot 2023-06-17 at 4 52 19 PM" src="https://github.com/Vishali96/SAT-Score/assets/107004584/1c11f3b0-99e5-4066-9a80-d9ad138eb2a2">
 Insert Data:
