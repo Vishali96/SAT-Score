@@ -1,5 +1,5 @@
 Project Requirements:
-      -- Install MySql
+      -- Install MySql <br />
       -- Create Username and Password
       -- Create DB
       -- Update Mysql Connection URL, Username and Password in homeAssessment/src/main/resources/application.properties
